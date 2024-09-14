@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://krhao.github.io/aIJ/sitemap.aIJ.gz
